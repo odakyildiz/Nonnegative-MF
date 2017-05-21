@@ -1,3 +1,11 @@
+% This is an implementation of Nonnegative matrix factorisation which is
+% proposed by Lee and Seung in the following reference:
+
+% Learning the parts of objects by non-negative matrix factorization,
+% Nature, 401, (1999).
+
+% We applied the algorithm to a simple missing data problem.
+
 clc;
 clear;
 
